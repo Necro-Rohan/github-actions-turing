@@ -2,4 +2,6 @@ function calculateSum(a, b) {
     return a + b;
 }
 
-module.exports = calculateSum;
+console.log(calculateSum(5, 10)); 
+
+// module.exports = calculateSum;
